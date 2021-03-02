@@ -13,5 +13,5 @@ Entre na pasta do projeto e execute o comando abaixo para instalar as dependênc
 Para abrir a aplicação, execute o comando:
 
 `ionic serve`
-
-Enjoy!
+ 
+ #### Foi adicionado as categorias ao toaster, mudança de cor, de fonte e adição de um alert em caso de IMC "Obesidade" ou "Obesidade Grave"
