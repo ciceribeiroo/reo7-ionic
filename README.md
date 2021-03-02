@@ -1,4 +1,4 @@
-# Calculadora de IMC
+# Calculadora de IMC: REO 7 - Atividade Avaliativa
 
 Mais uma aplicação para cálculo de Índice de Massa Corporal (IMC).
 
