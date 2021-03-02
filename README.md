@@ -14,4 +14,4 @@ Para abrir a aplicação, execute o comando:
 
 `ionic serve`
  
- #### Foi adicionado as categorias ao toaster, mudança de cor, de fonte e adição de um alert em caso de IMC "Obesidade" ou "Obesidade Grave"
+ #### Foi adicionado as categorias ao Toast, mudança de cor, de fonte e adição de um alert em caso de IMC "Obesidade" ou "Obesidade Grave"
